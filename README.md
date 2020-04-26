@@ -14,7 +14,7 @@
 ### How to run (make is needed)
 
 1. ```bash 
-	make // this will compile all the .java files to .class files
+	make			// this will compile all the .java files to .class files
 	```
 
 2. ```bash
@@ -22,7 +22,7 @@
 	```
 
 3. ```bash
-	make clean // this will remove all the .class files
+	make clean		// this will remove all the .class files
 	```
 
 ****
@@ -34,7 +34,7 @@
 	```
 			
 2. ```bash
-	java sim_cache 16 1024 2 8192 4 0 1 gcc_trace.txt			// L1 and L2 with LRU and inclusive
+	java sim_cache 16 1024 2 8192 4 0 1 gcc_trace.txt		// L1 and L2 with LRU and inclusive
 	```
 
 ****
