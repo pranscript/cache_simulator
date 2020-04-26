@@ -23,9 +23,9 @@
 
 ### Example
 
-1. sim_cache 16 1024 2 0 0 0 0 gcc_trace.txt			// only L1 with LRU and non-inclusive
+1. java sim_cache 16 1024 2 0 0 0 0 gcc_trace.txt			// only L1 with LRU and non-inclusive
 			
-2. sim_cache 16 1024 2 8192 4 0 1 gcc_trace.txt			// L1 and L2 with LRU and inclusive	 
+2. java sim_cache 16 1024 2 8192 4 0 1 gcc_trace.txt			// L1 and L2 with LRU and inclusive	 
 
 ****
 
