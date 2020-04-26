@@ -35,6 +35,8 @@
 
 2. Higher values of blocksize or cache size needs to be handled separately
 
+3. L2 cache might give different results
+
 ****
 
 [![HitCount](http://hits.dwyl.com/pranscript/cache_simulator.svg)](http://hits.dwyl.com/pranscript/cache_simulator)
