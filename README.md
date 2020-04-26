@@ -27,5 +27,14 @@
 			
 2. sim_cache 16 1024 2 8192 4 0 1 gcc_trace.txt			// L1 and L2 with LRU and inclusive	 
 
+****
+
+### Troubleshoot
+
+1. Make sure to put correct path of the trace files
+
+2. Higher values of blocksize or cache size needs to be handled separately
+
+****
 
 [![HitCount](http://hits.dwyl.com/pranscript/cache_simulator.svg)](http://hits.dwyl.com/pranscript/cache_simulator)
